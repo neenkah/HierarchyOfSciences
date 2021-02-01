@@ -16,4 +16,4 @@ To perform all similarity measures (NN vs CS and Political Science vs Physics) e
 `bash run.sh detect CS arxiv`
 `bash run.sh detect CS jstor`
 
-Lastly, the resulting lists from the commands above can be plotted and analysed with `SimilarityAnalysis.ipynb'.
+Lastly, the resulting lists from the commands above can be plotted and analysed with `SimilarityAnalysis.ipynb`.
